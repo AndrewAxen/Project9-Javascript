@@ -2,12 +2,12 @@
 
 ## Requirements:
 
-Step One
+**Step One**
 
 Implement Javascript in the personal website.
 One suggestion would be to add either an image slider or a dark/light mode toggle (or both).
 
-Step Two
+**Step Two**
 
 Build out a projects section for your website (or a projects page, if your website has multiple pages).
 It doesn’t have to be too complicated, but choose 2 to 3 things you’ve coded (either from this course or from outside this course), push the code to GitHub, and then for each include the following elements on your website: an image (screenshot of the UI component or full page you built), a title, a brief description, and a link to the GitHub repository
