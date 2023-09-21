@@ -19,7 +19,7 @@ I have successfully implemented a slider on the homepage of my personal website,
 I made these changes to my personal website to enhance its interactivity and provide visitors with a better user experience.
 The addition of a slider on the homepage featuring reviews about me allows users to see feedback and testimonials more engagingly. This dynamic element not only showcases positive feedback but also adds a modern touch to the website's design.
 
-My goal was to create a slider of the original design that was on the thumbnail of the site.
+My goal was to create a slider of the original design that was on the basic site.
 
 ---
 
